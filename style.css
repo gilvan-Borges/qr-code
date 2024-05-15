@@ -1,0 +1,56 @@
+body{
+    background-color: #b7c7e0;
+}
+
+.principal{
+    box-sizing: border-box;
+    padding: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 152px;
+    width: 90%;
+    max-width: 320px;
+    height: 497px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.container{
+    background-color: #2C7DFA;
+    margin-left: auto;
+    margin-right: auto;
+    width: 288px;
+    height: 288px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.qr-code{
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 64px;
+    height: 160px;
+    width: 160px;
+}
+
+img{
+    height: 160px;
+    width: 160px; 
+}
+
+.conteudo{
+    text-align: center;
+    height: 135px;
+    width: 288px;
+}
+
+.conteudo h1{
+    font-size: 25px;
+}
+
+.conteudo p{
+    
+    font-size: 18px;
+    color:Gray;
+}
